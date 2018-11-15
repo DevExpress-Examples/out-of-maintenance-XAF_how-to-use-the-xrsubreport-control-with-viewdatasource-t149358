@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[ContactReportWithSubreportMappedToViewDataSource.cs](./CS/SubReportExample.Module/ContactReportWithSubreportMappedToViewDataSource.cs) (VB: [ContactReportWithSubreportMappedToViewDataSource.vb](./VB/SubReportExample.Module/ContactReportWithSubreportMappedToViewDataSource.vb))**
+* [Module.cs](./CS/SubReportExample.Module/Module.cs) (VB: [Module.vb](./VB/SubReportExample.Module/Module.vb))
+<!-- default file list end -->
 # How to: Use the XRSubreport Control with ViewDataSource
 
 

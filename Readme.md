@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to: Use the XRSubreport Control with ViewDataSource
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t149358)**
+**[[Run Online]](https://codecentral.devexpress.com/t149358/)**
 <!-- run online end -->
 
 
